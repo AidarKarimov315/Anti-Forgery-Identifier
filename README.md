@@ -1,15 +1,6 @@
-# Anti-Counterfeit Product Identification System Using Blockchain
+# Anti-Forgery Product Identifier System Using Blockchain
 
-The Anti-Counterfeit Product Identification System Using Blockchain is an innovative solution that uses blockchain technology to combat counterfeit products in various industries. It uses QR codes, smart contracts, and the Ethereum network to provide a secure and transparent platform for tracking and verifying product authenticity. The system is significant in addressing global supply chain issues by reducing the prevalence of counterfeit goods and enhancing transparency and trust. 
-
-## Live Demo
-Here is a live demo of the full functionality of the project 
-
-[![Product Live Demo](https://img.youtube.com/vi/aWkgaCfMEn8/0.jpg)](https://www.youtube.com/watch?v=aWkgaCfMEn8 "Product Walkthrough")
-
-Here is a blog plost of this project:
-https://medium.com/p/68d23c7bc41c
-
+The Anti-Forgery Product Identifier System Using Blockchain is an innovative solution that uses blockchain technology to combat Forgery products in various industries. It uses QR codes, smart contracts, and the Ethereum network to provide a secure and transparent platform for tracking and verifying product authenticity. The system is significant in addressing global supply chain issues by reducing the prevalence of Forgery goods and enhancing transparency and trust. 
 
 ## Table of Contents
 - [Overview](#overview)
@@ -19,13 +10,13 @@ https://medium.com/p/68d23c7bc41c
 - [Project Setup](#project-setup)
 
 ## Overview
-The Anti-Counterfeit Product Identification System Using Blockchain is a groundbreaking solution designed to combat global supply chain issues related to counterfeit products. It leverages the unique capabilities of blockchain technology to provide a secure and transparent platform for tracking and verifying the authenticity of products across various industries.
+The Anti-Forgery Product Identifier System Using Blockchain is a groundbreaking solution designed to combat global supply chain issues related to Forgery products. It leverages the unique capabilities of blockchain technology to provide a secure and transparent platform for tracking and verifying the authenticity of products across various industries.
 
 The system uses QR codes, an overt technology that can be scanned by a smartphone app, to verify product information and origin. It employs smart contracts to store and execute product verification logic on the blockchain, ensuring tamper-proof data and trustless transactions. The Ethereum network serves as its decentralized database to store product information and status, accessible by authorized parties. A web interface, powered by React, allows users to interact with the system and view product information and history.
 
 The technologies used in this system include Solidity for smart contract development, Hardhat for Ethereum development environment, React for building the user interface, Node.js for backend development, and ethers.js for interacting with the Ethereum blockchain.
 
-This system is significant in solving global supply chain issues as it provides a reliable method to verify the authenticity of products, thereby reducing the prevalence of counterfeit goods. It enhances transparency and trust among stakeholders in the supply chain, from manufacturers to consumers. 
+This system is significant in solving global supply chain issues as it provides a reliable method to verify the authenticity of products, thereby reducing the prevalence of Forgery goods. It enhances transparency and trust among stakeholders in the supply chain, from manufacturers to consumers. 
 
 ## Basic Walkthrough
 - The `identeefi-backend-node` directory contains the codebase for the backend of the system.
